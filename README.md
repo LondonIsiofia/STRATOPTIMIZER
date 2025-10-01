@@ -71,3 +71,13 @@ Output: expected portfolio value & Sharpe ratio.
 ✅ Potential reinforcement learning reward system:
 
 Reward = High Sharpe + High Value + Low Drawdown.
+
+# KEY STRATEGY FEATURES
+
+✅ Trend filter → EMA trend (200 default) ensures long-only trades in uptrends.
+✅ Confidence system → Combines EMA cross, RSI, and trend.
+✅ Dynamic stop-loss → ATR-based, adjustable multiplier.
+✅ Profit target → Based on percentage (default: 5%).
+✅ Position sizing → Risk ~10% of cash per trade.
+✅ Logging → Clear console logs for debugging.
+✅ Optimizer-ready → Parameters exactly match those in your optimizer grid.
