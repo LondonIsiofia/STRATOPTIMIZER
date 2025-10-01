@@ -82,7 +82,7 @@ Reward = High Sharpe + High Value + Low Drawdown.
 ✅ Logging → Clear console logs for debugging.
 ✅ Optimizer-ready → Parameters exactly match those in your optimizer grid.
 
-#📈 Optimizer Progress Log
+# 📈 Optimizer Progress Log
 🎯 Project Goal
 
 Develop a strategy optimizer that consistently achieves 10%+ profit over the past 5 years.
